@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anish Pal and I am a passionate Software Developer specializing in Data Structures & Algorithms (DSA) with C++ and full-stack Web Development using HTML, CSS, Java ....</p>
+<h3 align="left">My name is Anish Pal and I am a passionate Software Developer specializing in Data Structures & Algorithms (DSA) with C++ and full-stack Web Development using HTML, CSS, Java ....</h3>
 
 ###
 
