@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Anish Pal</h1>
 <h3 align="center">I am a passionate **Software Developer** with expertise in **Data Structures and Algorithms (DSA)** and full-stack web development. I love solving complex problems and building interactive, user-friendly applications.</h3>
 
