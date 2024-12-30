@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...1<br>📚 I'm currently learning ...MySQL,Django<br>🎲 Fun fact: .. I enjoy learning new technologies.<br>📫 How to reach me:ap08anish@gmail.com</p>
+<p align="left">✨ Creating bugs since ...1<br>📚 I'm currently learning ...MySQL,Django<br>🎲 Fun fact: .. I enjoy learning new technologies.<br>📫 How to reach me:  ap08anish@gmail.com</p>
 
 ###
 
