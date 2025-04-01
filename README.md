@@ -1,4 +1,4 @@
-<img src="https://github.com/Anish-Pal/Anish-Pal/blob/main/Green%20and%20Yellow%20Minimalist%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif?raw=true" width="100%" height="300">
+<img src="https://github.com/Anish-Pal/Anish-Pal/blob/main/Green%20and%20Yellow%20Minimalist%20Welcome%20To%20My%20Channel%20Youtube%20Intro.gif?raw=true" width="100%" height="400">
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
